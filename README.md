@@ -1,2 +1,1 @@
-# Calculator
-Calculator with Basic Arithmetic Operation
+A fully functional calculator web application built with HTML, CSS, and JavaScript. Features include basic arithmetic operations, decimal support, error handling, and a responsive design that works across all devices. Demonstrates clean code practices and modern web development fundamentals.
